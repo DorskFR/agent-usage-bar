@@ -6,9 +6,7 @@ your account consumption no matter which machine you're running sessions on.
 
 The menu-bar title looks like:
 
-```
-<img width="361" height="370" alt="agent-bar" src="https://github.com/user-attachments/assets/a864bcfe-150f-4b8d-9326-0625cd2d481f" />
-```
+<img width="361" height="370" alt="agent-bar" src="https://github.com/user-attachments/assets/9feaad37-4c23-4590-b0b2-e41f5a4be8bc" />
 
 `CC` = Claude Code, `CX` = Codex, each showing the *peak* utilization across its
 windows. The dot turns 🟡 above 50% and 🔴 above 80%. Click it for the full
