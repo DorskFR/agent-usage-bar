@@ -7,7 +7,7 @@ your account consumption no matter which machine you're running sessions on.
 The menu-bar title looks like:
 
 ```
-🟢 CC 33% · CX 3%
+<img width="361" height="370" alt="agent-bar" src="https://github.com/user-attachments/assets/a864bcfe-150f-4b8d-9326-0625cd2d481f" />
 ```
 
 `CC` = Claude Code, `CX` = Codex, each showing the *peak* utilization across its
